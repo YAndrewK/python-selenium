@@ -4,6 +4,6 @@ print ('hello')
 
 print ('hello from Dima')
 
-browser = webdriver.chrome()
+browser = webdriver.Chrome()
 browser.get('https://vk.com')
 
